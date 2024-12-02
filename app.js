@@ -1,5 +1,5 @@
 // Replace with your actual Google API key and OpenAI API key
-const apiKey = 'AIzaSyDodU9T1rzRN9cYkEi8mdY7_1a6jeWUIpw'; // Google API Key for Places API
+const apiKey = ''; // Google API Key for Places API
 const openAI_API_KEY = '';  // OpenAI API Key for ChatGPT
 
 // Show search bar if the user clicks "Yes"
